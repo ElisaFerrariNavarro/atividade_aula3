@@ -40,3 +40,12 @@ atividade_aula3/
     └── site-ruim.png
 
 
+
+## 👥 Autores e Turma
+
+**Autores:**
+- Elisa Ferrari Navarro
+- Guilherme Santos dos Anjos
+
+**Turma:** 
+1IE-DS
