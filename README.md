@@ -10,6 +10,16 @@ Foram selecionados:
 - ❌ **Exemplo RUIM:** um site que apresenta problemas de design e/ou UX, como contraste inadequado, fontes de difícil leitura, excesso de elementos ou poluição visual.
 
 ---
+## 👥 Autores e Turma
+
+**Autores:**
+- Elisa Ferrari Navarro
+- Guilherme Santos dos Anjos
+
+**Turma:** 
+1IE-DS
+
+---
 
 ## 🎯 Objetivos
 
@@ -41,11 +51,4 @@ atividade_aula3/
 
 
 
-## 👥 Autores e Turma
 
-**Autores:**
-- Elisa Ferrari Navarro
-- Guilherme Santos dos Anjos
-
-**Turma:** 
-1IE-DS
